@@ -1,5 +1,9 @@
 FROM  centos
+<<<<<<< HEAD
 MAINTAINER snimbargimath@gmail.com
+=======
+MAINTAINER vikashashoke@gmail.com
+>>>>>>> 6f95358da88c511f458532b096c57838cbe73083
 RUN yum install -y httpd \
  zip\
  unzip
